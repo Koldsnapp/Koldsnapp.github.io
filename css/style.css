@@ -1527,12 +1527,12 @@ section * {
   }
 }
 .header-10-sub .background {
-  background-image: url("../img/background2.jpg");
+  background-image: url("/img/background2.jpg");
   opacity: 0.85;
   filter: alpha(opacity=85);
 }
 .header-10 {
-  background-color: #1b1f23;
+  background-color: #17496A;
 }
 .header-10 .btn:hover,
 .header-10 .btn.active,
