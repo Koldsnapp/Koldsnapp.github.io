@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Montserrat);
+@import url(http://fonts.googleapis.com/css?family=Cabin);
 /* 62px */
 /* 52px */
 /* 40px */
@@ -30,7 +30,7 @@
 }
 /*only fo flat-ui free*/body {
   color: #34495e;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Cabin", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.231;
 }
@@ -38,7 +38,7 @@ input,
 button,
 select,
 textarea {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Cabin", Helvetica, Arial, sans-serif;
   font-size: 14px;
 }
 a {
@@ -401,7 +401,7 @@ h5,
 .h5,
 h6,
 .h6 {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Cabin", Helvetica, Arial, sans-serif;
   color: #2c3e50;
 }
 h1 {
@@ -429,7 +429,7 @@ input[type="search"],
 input[type="tel"],
 input[type="color"],
 .uneditable-input {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Cabin", Helvetica, Arial, sans-serif;
   font-size: 16px;
   font-weight: normal;
   color: #7f8c8d;
@@ -461,7 +461,7 @@ button:active {
     height: auto!important;
     overflow: auto!important;
     background: #222527;
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Cabin', Helvetica, Arial, sans-serif;
     display: none;
   }
   .navbar .nav-collapse::-webkit-scrollbar {
@@ -483,7 +483,7 @@ button:active {
     border-bottom: 2px solid #24292d;
     font-size: 13px;
     font-weight: normal;
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Cabin', Helvetica, Arial, sans-serif;
     letter-spacing: 1px;
     color: #5b5e61;
     text-transform: uppercase;
@@ -511,7 +511,7 @@ button:active {
     padding: 7px 35px;
     font-size: 13px;
     font-weight: normal;
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Cabin', Helvetica, Arial, sans-serif;
     color: #5b5e61;
     text-transform: capitalize;
   }
@@ -586,7 +586,7 @@ header .brand {
   font-size: 25px;
   font-weight: normal;
   color: #34495e;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Cabin", Helvetica, Arial, sans-serif;
   font-weight: 800;
   letter-spacing: -1px;
   color: #2c3e50;
@@ -710,7 +710,7 @@ section * {
   font-size: 25px;
   font-weight: normal;
   color: #ffffff;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Cabin", Helvetica, Arial, sans-serif;
   font-weight: 600;
 }
 .header-10 .navbar .brand img:first-child {
@@ -779,7 +779,7 @@ section * {
     float: none;
     overflow: auto!important;
     background: #222527;
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Cabin', Helvetica, Arial, sans-serif;
   }
   .header-10 .navbar .nav-collapse::-webkit-scrollbar {
     display: none;
@@ -800,7 +800,7 @@ section * {
     border-bottom: 2px solid #24292d;
     font-size: 13px;
     font-weight: normal;
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Cabin', Helvetica, Arial, sans-serif;
     letter-spacing: 1px;
     color: #5b5e61;
     text-transform: uppercase;
@@ -828,7 +828,7 @@ section * {
     padding: 7px 35px;
     font-size: 13px;
     font-weight: normal;
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Cabin', Helvetica, Arial, sans-serif;
     color: #5b5e61;
     text-transform: capitalize;
   }
@@ -913,14 +913,14 @@ section * {
   font-size: 45px;
   font-weight: normal;
   color: #ffffff;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Cabin", Helvetica, Arial, sans-serif;
   font-weight: 300;
 }
 .header-10-sub .hero-unit p {
   font-size: 25px;
   font-weight: normal;
   color: #bdc3c7;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Cabin", Helvetica, Arial, sans-serif;
   font-weight: 300;
   line-height: 37.5px;
 }
@@ -929,7 +929,7 @@ section * {
     font-size: 36px;
     font-weight: normal;
     color: #ffffff;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Cabin", Helvetica, Arial, sans-serif;
     font-weight: 300;
   }
   .header-10-sub .hero-unit p {
@@ -945,7 +945,7 @@ section * {
   font-weight: normal;
   color: #ffffff;
   font-weight: 500;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Cabin", Helvetica, Arial, sans-serif;
   border: 8px solid white;
   display: inline-block;
   margin: 0;
@@ -1016,7 +1016,7 @@ section * {
   font-size: 30px;
   font-weight: normal;
   color: #2c3e50;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Cabin", Helvetica, Arial, sans-serif;
   margin-bottom: 80px;
   line-height: 42px;
   font-weight: 800;
@@ -1098,7 +1098,7 @@ section * {
   font-size: 22px;
   font-weight: normal;
   color: #7f8c8d;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Cabin", Helvetica, Arial, sans-serif;
   line-height: 32px;
   font-weight: 300;
 }
@@ -1153,7 +1153,7 @@ section * {
   font-size: 30px;
   font-weight: normal;
   color: #34495e;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Cabin", Helvetica, Arial, sans-serif;
   margin: 70px 0 35px;
 }
 .content-8 p {
@@ -1172,7 +1172,7 @@ section * {
   font-weight: normal;
   color: #7f8c8d;
   font-weight: 500;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Cabin", Helvetica, Arial, sans-serif;
   padding: 12px 28px 12px;
   color: #e74c3c;
 }
@@ -1246,7 +1246,7 @@ section * {
   font-size: 24px;
   font-weight: normal;
   color: #34495e;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Cabin", Helvetica, Arial, sans-serif;
   font-weight: 300;
 }
 .content-11 > .container {
@@ -1495,7 +1495,7 @@ section * {
   font-size: 25px;
   font-weight: normal;
   color: #ffffff;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Cabin", Helvetica, Arial, sans-serif;
   font-weight: 500;
 }
 .footer-3 .additional-links a {
