@@ -261,7 +261,7 @@ footer {
   background-color: #2ecc71;
 }
 .bg-nephritis {
-  background-color: #27ae60;
+  background-color: #17496A;
 }
 .bg-peter-river {
   background-color: #3498db;
@@ -668,7 +668,7 @@ section * {
   padding-top: 0;
   padding-bottom: 0;
   height: 80px;
-  background: #233240;
+  background: #17496A;
   color: white;
 }
 .header-10 .navbar {
@@ -1527,7 +1527,7 @@ section * {
   }
 }
 .header-10-sub .background {
-  background-image: url("../img/img-1.jpg");
+  background-image: url("../img/background2.jpg");
   opacity: 0.85;
   filter: alpha(opacity=85);
 }
