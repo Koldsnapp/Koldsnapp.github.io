@@ -25,6 +25,8 @@ you can use the generic selector below, but it's slower:
 .fui-facebook, .fui-twitter {
   font-size: 2.5em;
   color: #5195C3;
+  padding-bottom: 10px;
+  padding-right: 5px;
 }
 .fui-triangle-up,
 .fui-triangle-up-small,
