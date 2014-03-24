@@ -22,6 +22,9 @@ Instead of a list of all class selectors,
 you can use the generic selector below, but it's slower:
 [class*="fui-"] {
 */
+.fui-facebook, .fui-twitter {
+  font-size: 2.5em;
+}
 .fui-triangle-up,
 .fui-triangle-up-small,
 .fui-triangle-right-large,
