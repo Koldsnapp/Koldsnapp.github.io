@@ -802,7 +802,7 @@ section * {
     font-weight: normal;
     font-family: 'Cabin', Helvetica, Arial, sans-serif;
     letter-spacing: 1px;
-    color: #17496A;
+    color: white;
     text-transform: uppercase;
   }
   .header-10 .navbar .nav-collapse .nav > li > a:hover,
